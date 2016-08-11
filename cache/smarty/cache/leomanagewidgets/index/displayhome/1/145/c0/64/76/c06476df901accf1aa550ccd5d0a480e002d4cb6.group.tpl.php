@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '625757ab62d62d3a18-58283284',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ab687d7c8508_32309136',
+  'unifunc' => 'content_57ab95c4d59b53_78576437',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ab687d7c8508_32309136')) {function content_57ab687d7c8508_32309136($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ab95c4d59b53_78576437')) {function content_57ab95c4d59b53_78576437($_smarty_tpl) {?>
             <div class="row" 
                     >
             
@@ -131,7 +131,7 @@ $('#myCarousel').on('slid', function (e) {
 		<span>Mejor vendido</span>
 	</h4>
 		<div class="block_content">	
-					<div class="carousel slide" id="leoproductcarousel12360">
+					<div class="carousel slide" id="leoproductcarousel8565">
 	
 	<div class="carousel-inner">
 							<div class="item active">
@@ -623,7 +623,7 @@ $('#myCarousel').on('slid', function (e) {
 </div>
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#leoproductcarousel12360').each(function(){
+    $('#leoproductcarousel8565').each(function(){
         $(this).carousel({
             pause: 'hover',
             interval: 0
@@ -652,21 +652,21 @@ $(document).ready(function() {
                             >
                                                                                                 
 <!-- MODULE Block specials -->
-<div id="leoproducttab2608" class="products_block exclusive">
+<div id="leoproducttab9535" class="products_block exclusive">
 		<div class="block_content">			            
 			<ul id="productTabs" class="nav nav-pills">
 			  	
-              <li><a href="#leoproducttab2608special" data-toggle="tab">Especial</a></li>
+              <li><a href="#leoproducttab9535special" data-toggle="tab">Especial</a></li>
 			                 	
-              <li><a href="#leoproducttab2608newproducts" data-toggle="tab"><span></span>Nuevas adquisiciones</a></li>
+              <li><a href="#leoproducttab9535newproducts" data-toggle="tab"><span></span>Nuevas adquisiciones</a></li>
 			  			  			  	
-              <li><a href="#leoproducttab2608featured" data-toggle="tab"><span></span>Productos destacados</a></li>
+              <li><a href="#leoproducttab9535featured" data-toggle="tab"><span></span>Productos destacados</a></li>
 			              </ul>
 			
             <div id="product_tab_content"><div class="product_tab_content tab-content">
 			   	
-					<div class="tab-pane" id="leoproducttab2608special">
-										<div class="carousel slide" id="leoproducttab2608-special">
+					<div class="tab-pane" id="leoproducttab9535special">
+										<div class="carousel slide" id="leoproducttab9535-special">
 	
 	<div class="carousel-inner">
 							<div class="item active">
@@ -850,11 +850,11 @@ $(document).ready(function() {
 
 	              </div>
 			   			  		  
-              <div class="tab-pane" id="leoproducttab2608newproducts">
-					 					<div class="carousel slide" id="leoproducttab2608-newproducts">
+              <div class="tab-pane" id="leoproducttab9535newproducts">
+					 					<div class="carousel slide" id="leoproducttab9535-newproducts">
 		 
-	 	<a class="carousel-control left" href="#leoproducttab2608-newproducts"   data-slide="prev">&lsaquo;</a>
-		<a class="carousel-control right" href="#leoproducttab2608-newproducts"  data-slide="next">&rsaquo;</a>
+	 	<a class="carousel-control left" href="#leoproducttab9535-newproducts"   data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right" href="#leoproducttab9535-newproducts"  data-slide="next">&rsaquo;</a>
 	
 	<div class="carousel-inner">
 							<div class="item active">
@@ -1426,11 +1426,11 @@ $(document).ready(function() {
 			 	
 			 	
 			 		  
-              <div class="tab-pane" id="leoproducttab2608featured">
-					 					<div class="carousel slide" id="leoproducttab2608-featured">
+              <div class="tab-pane" id="leoproducttab9535featured">
+					 					<div class="carousel slide" id="leoproducttab9535-featured">
 		 
-	 	<a class="carousel-control left" href="#leoproducttab2608-featured"   data-slide="prev">&lsaquo;</a>
-		<a class="carousel-control right" href="#leoproducttab2608-featured"  data-slide="next">&rsaquo;</a>
+	 	<a class="carousel-control left" href="#leoproducttab9535-featured"   data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right" href="#leoproducttab9535-featured"  data-slide="next">&rsaquo;</a>
 	
 	<div class="carousel-inner">
 							<div class="item active">
@@ -2009,15 +2009,15 @@ $(document).ready(function() {
 <!-- /MODULE Block specials -->
 <script>
 $(document).ready(function() {
-    $('#leoproducttab2608 .carousel').each(function(){
+    $('#leoproducttab9535 .carousel').each(function(){
         $(this).carousel({
             pause: 'hover',
             interval: 0
         });
     });
  
-	$("#leoproducttab2608 .nav-pills li", this).first().addClass("active");
-	$("#leoproducttab2608 .tab-content .tab-pane", this).first().addClass("active");
+	$("#leoproducttab9535 .nav-pills li", this).first().addClass("active");
+	$("#leoproducttab9535 .tab-content .tab-pane", this).first().addClass("active");
  
 });
 </script>

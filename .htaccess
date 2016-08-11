@@ -10,7 +10,7 @@ SetEnv HTTP_MOD_REWRITE On
 RewriteEngine on
 
 
-#Domain: localhost
+#Domain: tareasmnpm.esy.es
 RewriteRule . - [E=REWRITEBASE:/shop/]
 RewriteRule ^api$ api/ [L]
 
